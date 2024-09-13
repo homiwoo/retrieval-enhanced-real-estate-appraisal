@@ -15,7 +15,7 @@
 
 ## Description
 
-This github repository contains the code and dataset introduced in the [Retrieval-Enhanced Real Estate Appraisal]() paper.
+This github repository contains the code and dataset introduced in the [Retrieval-Enhanced Real Estate Appraisal](https://nfmcp2024.di.uniba.it/papers/paper235.pdf) paper.
 
 ## Installation
 
